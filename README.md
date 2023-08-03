@@ -1,2 +1,1 @@
-# Henry-
-Este repositorio sera para enviar tareas realizadas
+Aqui voy a ir subiendo aarchivos sobre una tienda online creada
